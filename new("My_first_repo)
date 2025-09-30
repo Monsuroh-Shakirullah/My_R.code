@@ -1,0 +1,21 @@
+# My_R_code  
+
+This repository contains my R programming practice codes and projects.  
+The focus is on data analysis, statistics, and applications in public health and nutrition.  
+
+## Contents  
+- Basic R scripts (variables, data types, operators)  
+- Data analysis practice (summarizing, visualizing)  
+- Small projects related to health and nutrition  
+
+## Purpose  
+This repo serves as my personal learning journey in R, where I practice coding, save notes, and build small projects.  
+
+## Tools Used  
+- R programming language  
+- RStudio / GitHub for version control  
+
+## Future Plans  
+- More projects in public health and nutrition data  
+- Integration of R with Python for analysis  
+- Visualization projects with ggplot2
